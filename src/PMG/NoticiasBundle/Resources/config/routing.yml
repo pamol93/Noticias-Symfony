@@ -1,3 +1,7 @@
+noticias_test:
+    path:     /test
+    defaults: { _controller: NoticiasBundle:Default:index }
+
 noticias_homepage:
     path:     /home
-    defaults: { _controller: NoticiasBundle:Default:index }
+    defaults: { _controller: NoticiasBundle:Noticias:index }

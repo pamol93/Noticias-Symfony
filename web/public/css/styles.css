@@ -1,0 +1,15 @@
+.noticia{  
+    padding: 10px;
+    margin: 10px;
+    background: teal;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px -10px rgba(110,110,110,0.75);
+}
+
+.noticia-img{
+    height: 150px !important;
+}
+
+.noticia-title{
+    color: white;
+}
